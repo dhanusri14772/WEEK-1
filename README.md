@@ -1,2 +1,3 @@
 # WEEK-1
-Crop and Fertilizer recpmmendation system using machine learning 
+ TOPIC - Crop and Fertilizer recommendation system using machine learning 
+ 
